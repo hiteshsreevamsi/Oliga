@@ -1,0 +1,22 @@
+{
+  "name": "oliga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "server": "nodemon server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.2",
+    "express": "^4.17.1",
+    "express-validator": "^6.7.0",
+    "mongoose": "^5.10.16",
+    "mongoose-auto-increment": "^5.0.1",
+    "mongoose-sequence": "^5.3.0",
+    "nodemon": "^2.0.6",
+    "request": "^2.88.2"
+  }
+}

@@ -1,0 +1,3 @@
+{
+  "mongoUri": "mongodb+srv://Hitesh:1234@devconnector-4mjwg.mongodb.net/Habits?retryWrites=true&w=majority"
+}
