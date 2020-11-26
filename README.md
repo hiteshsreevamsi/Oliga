@@ -19,7 +19,7 @@ a. To get the number of orders and average subtotal
 
 ```
 
-b. To add new key to user and number of orders
+b. To add new key to user and add number of orders
 
 ```
  http://localhost:4000/api/users/update
